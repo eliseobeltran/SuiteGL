@@ -1,0 +1,24 @@
+Internal ID,Name,DEPARTMENT
+1,Spacecraft : Prototype Hardware: Optical,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+2,Spacecraft : Prototype Hardware: Electrical,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+3,Spacecraft : Prototype Hardware: Mechanical,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+4,Spacecraft : Prototype Hardware: Other,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+5,Spacecraft : Flight Hardware - Production,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+6,Spacecraft : Flight Hardware - Experimental,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+7,Spacecraft : Qualification Testing,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+8,Spacecraft : Lab Supplies,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+9,Spacecraft : Lab Equipment (<$1000),"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+10,Spacecraft : Lab Equipment Rental and Leases,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+11,Spacecraft : Spacecraft : Other,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+12,Lab Equipment : Lab Equipment - Asset (>$1000),Missions
+13,Spacecraft : Software Applications,"MTE,Manufacturing,Production,Qual Testing,Spacecraft"
+14,GS Dish hardware,Missions
+15,GS Site Build,Missions
+16,GS R&D Supplies/Equipment,Missions
+17,GS Land (Lease or Rent),Missions
+18,GS Communications Services,Missions
+19,GS Utility Services,Missions
+20,GS Maintenance Services or Contracts,Missions
+21,GS Other services,Missions
+22,Data/SW hosting,Missions
+23,Analysis/Support,Missions
